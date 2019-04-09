@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "task": "Welcome task",
+      "id": 0,
+      "done": true
+    },
+    {
+      "task": "third task",
+      "id": 2,
+      "done": false
+    },
+    {
+      "task": "Fourth task",
+      "id": 3,
+      "done": true
+    }
+  ]
+}
